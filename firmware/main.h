@@ -1,3 +1,14 @@
+/*************************************************************************
+* Title:	ATmega8 Firmware for programmable light controller.
+* Author:	Dilshan R Jayakody <jayakody2000lk@gmail.com>
+* Project:	Programmable LED controller.
+* Homepage:	https://github.com/dilshan/programmable-light
+* File:     main.h
+* Info:		Main firmware module with applicaion entry point.
+* Compiler: AVR GCC 5.4.0 (AVR 8-bit GNU Toolchain 3.6.1)
+* Target:   ATmega8L / ATmega8A
+**************************************************************************/
+
 #ifndef MAIN_HEADER
 #define MAIN_HEADER
 

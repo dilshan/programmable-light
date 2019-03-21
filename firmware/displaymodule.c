@@ -2,7 +2,7 @@
 * Title:	ATmega8 Firmware for programmable light controller.
 * Author:	Dilshan R Jayakody <jayakody2000lk@gmail.com>
 * Project:	Programmable LED controller.
-* Homepage:	TBD
+* Homepage:	https://github.com/dilshan/programmable-light
 * File:     displaymodule.c
 * Info:		Seven segment display related routines.
 * Compiler: AVR GCC 5.4.0 (AVR 8-bit GNU Toolchain 3.6.1)
