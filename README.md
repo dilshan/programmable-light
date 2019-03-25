@@ -6,6 +6,10 @@ Programmable light is a low cost and easy to build LED light controller. The mai
 
 This light controller is based on *ATmega8* microcontroller and *DS1307* real time clock. It is designed to handle commonly available 24V - 7W LED modules. 
 
-This project is an open design. All the design files, documentation, firmware source code are available to download at the [project source repository](https://github.com/dilshan/programmable-light).
+This project is an open design. All the design files, documentation, firmware source code are available to download at the [project source repository](https://github.com/dilshan/programmable-light). All the content of this project are distributed under the terms of the following license: 
+
+* Hardware License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* Software License: [MIT](https://github.com/dilshan/programmable-light/blob/master/LICENSE)
+* Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 For more details check [project documentation at GitHub](https://github.com/dilshan/programmable-light/wiki). 
