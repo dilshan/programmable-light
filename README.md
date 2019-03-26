@@ -12,6 +12,6 @@ This is [certified open source hardware project](https://certification.oshwa.org
 * Software License: [MIT](https://github.com/dilshan/programmable-light/blob/master/LICENSE)
 * Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![LK000002](https://raw.githubusercontent.com/wiki/dilshan/programmable-light/images/LK000002.svg?sanitize=true)
+[![LK000002](https://raw.githubusercontent.com/wiki/dilshan/programmable-light/images/LK000002.svg?sanitize=true)](https://certification.oshwa.org/lk000002.html)
 
 For more details check [project documentation at GitHub](https://github.com/dilshan/programmable-light/wiki). 
